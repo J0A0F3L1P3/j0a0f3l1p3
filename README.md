@@ -1,76 +1,46 @@
-### Hi there 👋
+### Olá, meu nome nome é João Felipe
 
-<!--
-**J0A0F3L1P3/j0a0f3l1p3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+ <a href="https://github.com/j0a0f3l1p3">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0a0f3l1p3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0a0f3l1p3&layout=compact&langs_count=6&theme=tokyonight">
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div><br>
+ 
+ <!--<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">-->
 
-<body>
-  <div class="container">
-
-
-
-
-
-    <header class="perfil">
-      <img class="perfil-foto" src="https://images.unsplash.com/photo-1580518324671-c2f0833a3af3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFjZSUyMG1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=150&h=150"/>
-      
-      <div class="titulo">
-        <h1>João Felipe</h1>
-        <h2>Jovem Aprendiz</h2>
-        <!-- <h2>Cursando: <br> Engenharia de Software e <br> Desenvolvimento de Sistemas</h2> -->
-      <div>
-      <a href="https://codepen.io/Flepado" target="_blank"><img class="link" width="25" height="25"  class="iconesredes" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-256.png" alt="CodePen"></a>
-        
-      <a href="https://github.com/J0A0F3L1P3" target="_blank"><img class="link" width="25" height="25"  class="iconesredes" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub"></a>
-      </div>
-        
-      </div>
-    </header>
-
-
-
-    
-
-
-    <div>
-
-      <main class="sobre">
-        <h3 class="sobre-mim">Sobre mim</h3>
-        <p>Olá, meu nome é João Felipe, tenho 18 anos e estou cursando Engenharia de Software e Desenvolvimento de Sistemas.<br><br>Tenho conhecimento em: algumas coisas (se é  que me entende)</p>
-
-
-
-                <!-- <p>Sou graduado em Engenharia de Software e Desenvolvimento de Sistemas e tenho experiência em desenvolvimento de software, tanto Front-End quanto Back-End. Possuo conhecimentos em linguagens de programação como HTML, CSS, JavaScript, Python, C++ e Java, além de ferramentas de desenvolvimento como Git, VS Code e Visual Studio. Também tenho habilidades em modelagem de dados e bancos de dados relacionais e não relacionais. Busco uma oportunidade para aplicar meus conhecimentos e desenvolver minha carreira em uma empresa de tecnologia, contribuindo com soluções inovadoras e eficientes.</p> -->
-      </main>
-
-
-
-
-
-
-      <div  class="sobre">
-        <h3 class="sobre-mim">Projetos</h3>
-          <ul>
-            <li><a href="https://j0a0f3l1p3.github.io/STYLE/">🕶 STYLE</a></li>
-          </ul>
-      </div>
-
-    </div>
-
-
-
-
-
+ <div align="center">
+  <br>
+  <div style="display: inline_block">
+   <h2>Tecnologias que utilizo:</h2>
+   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   </div>
-</body>
+
+  <div style="display: inline_block"><br>
+   <h2>Estou aprendendo:</h2>
+   <img align="center" alt="Csharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
+ </div>
+
+</div>
+
+<br><br><br>
+<!--
+### Sempre buscando aprender. Me siga nas redes sociais abaixo!
+
+<div> 
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/lukinhaxdlc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/lukinhaxdlc#6260" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:lucasdev.programador@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/lucas-santos-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>--> 
+
+ ![Snake animation](https://github.com/J0A0F3L1P3)
+
+</div>
