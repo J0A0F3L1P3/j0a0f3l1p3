@@ -41,6 +41,6 @@
  <a href = "mailto:lucasdev.programador@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/lucas-santos-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>--> 
 
- ![Snake animation](https://github.com/J0A0F3L1P3)
+ ![Snake animation](https://github.com/j0a0f3l1p3/j0a0f3l1p3/blob/output/github-contribution-grid-snake.svg)
 
 </div>
