@@ -2,15 +2,13 @@
 
 <div>
  <a href="https://github.com/j0a0f3l1p3">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=j0a0f3l1p3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0a0f3l1p3&layout=compact&langs_count=6&theme=tokyonight">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=j0a0f3l1p3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0a0f3l1p3&layout=compact&langs_count=6&theme=tokyonight">
 </div>
 
 <br>
 
 <div><br>
- 
- <!--<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">-->
 
  <div align="center">
   <br>
@@ -44,8 +42,4 @@
 </div>
 
 -->
- 
- ![Snake animation](https://github.com/J0A0F3L1P3/j0a0f3l1p3/blob/output/github-contribution-grid-snake.svg)
-
-
 
