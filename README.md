@@ -15,7 +15,6 @@
   <img src="https://skillicons.dev/icons?i=js,&theme=dark" alt="JavaScript">
   <img src="https://skillicons.dev/icons?i=bootstrap,&theme=dark" alt="Bootstrap">
   <img src="https://skillicons.dev/icons?i=git,&theme=dark" alt="Git">
-  <img src="https://skillicons.dev/icons?i=figma,&theme=dark" alt="Figma">
   <img src="https://skillicons.dev/icons?i=vscode,&theme=dark" alt="VS Code">
 </p>
 
