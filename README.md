@@ -30,3 +30,5 @@
   <img src="https://skillicons.dev/icons?i=mysql,&theme=dark" alt="MySQL">
   <img src="https://skillicons.dev/icons?i=react,&theme=dark" alt="React">
 </p>
+
+<!--github com os icones: https://github.com/tandpfun/skill-icons#icons-list -->
