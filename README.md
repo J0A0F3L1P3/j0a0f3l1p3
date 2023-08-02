@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00C647&&center=false&Center=truewidth=100%&lines=Bem+vindo+ao+meu+github;Meu+nome+é+João+Felipe;Tenho+19+anos.;Sou+desenvolvedor+web!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00C647&&center=falsewidth=100%&lines=Bem+vindo+ao+meu+github;Meu+nome+é+João+Felipe;Tenho+19+anos.;Sou+desenvolvedor+web!;)](https://git.io/typing-svg)
 
-Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Software ( Anhanguera ) e Desenvolvimento de Sistemas ( Etec Albert Einstein ).
+Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Software ( Anhanguera ) e Desenvolvimento de Sistemas ( Etec Albert Einstein ). Possuo habilidades de colaboração e comunicação que me permitem trabalhar em equipe de forma eficaz, buscando sempre contribuir para alcançar os objetivos do projeto. Além disso, sou orientado a resultados, o que me impulsiona a buscar soluções inovadoras e eficientes para os problemas apresentados.
 
 ## Tecnologias que utilizo:
 
