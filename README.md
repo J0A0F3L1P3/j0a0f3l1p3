@@ -1,24 +1,19 @@
-<h1 align="center">Bem-vindo ao meu GitHub 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00C647&&center=false&Center=truewidth=100%&lines=Bem+vindo+ao+meu+github;Meu+nome+é+João+Felipe;Tenho+19+anos.;Sou+desenvolvedor+web!;)](https://git.io/typing-svg)
+
+Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Software ( Anhanguera ) e Desenvolvimento de Sistemas ( Etec Albert Einstein ).
+
+## Tecnologias que utilizo:
 
 <p align="center">
-  <a href="https://github.com/j0a0f3l1p3">
-    <img height="184em" src="https://github-readme-stats.vercel.app/api?username=J0A0F3L1P3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-    <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0A0F3L1P3&layout=compact&langs_count=6&theme=tokyonight">
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,&theme=dark" alt="Python">
+  <img src="https://skillicons.dev/icons?i=nodejs,&theme=dark" alt="Python">
+  <img src="https://skillicons.dev/icons?i=bootstrap,&theme=dark" alt="Python">
+  <img src="https://skillicons.dev/icons?i=js,&theme=dark" alt="Python">
+  <img src="https://skillicons.dev/icons?i=css,&theme=dark" alt="Python">
+  <img src="https://skillicons.dev/icons?i=html,&theme=dark" alt="Python">
 </p>
 
-<h2 align="center">Tecnologias que utilizo:</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,&theme=dark" alt="HTML">
-  <img src="https://skillicons.dev/icons?i=css,&theme=dark" alt="CSS">
-  <img src="https://skillicons.dev/icons?i=js,&theme=dark" alt="JavaScript">
-  <img src="https://skillicons.dev/icons?i=bootstrap,&theme=dark" alt="Bootstrap">
-  <img src="https://skillicons.dev/icons?i=git,&theme=dark" alt="Git">
-  <img src="https://skillicons.dev/icons?i=vscode,&theme=dark" alt="VS Code">
-</p>
-
-<h2 align="center">Estou aprendendo:</h2>
+## Estou aprendendo:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,&theme=dark" alt="Python">
@@ -31,3 +26,11 @@
 </p>
 
 <!--github com os icones: https://github.com/tandpfun/skill-icons#icons-list -->
+
+## github Status
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=J0A0F3L1P3&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J0A0F3L1P3&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J0A0F3L1P3&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J0A0F3L1P3&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=J0A0F3L1P3&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
