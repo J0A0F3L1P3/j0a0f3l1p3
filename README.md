@@ -5,12 +5,11 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 ## Tecnologias que utilizo:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Python">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Python">
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Python">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="Python">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="Python">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="Python">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git">
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML">
 </p>
 
 ## Estou aprendendo:
@@ -18,8 +17,8 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#">
-  <!--<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++">-->
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="Arduino">
+  <!--<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino">-->
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++">
   <!--<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node JS">-->
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL">
   <!--<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React">-->
