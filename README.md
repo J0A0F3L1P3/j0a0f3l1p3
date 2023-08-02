@@ -5,11 +5,11 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 ## Tecnologias que utilizo:
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript">
   <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git">
   <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML">
 </p>
 
 ## Estou aprendendo:
