@@ -21,7 +21,7 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 <!--   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"> -->
 <!--   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++"> -->
 <!--   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node JS"> -->
-<!--   <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"> -->
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React">
 </p>
 
 <!--github com os icones: https://github.com/tandpfun/skill-icons#icons-list -->
@@ -31,5 +31,5 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=J0A0F3L1P3&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J0A0F3L1P3&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J0A0F3L1P3&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J0A0F3L1P3&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=J0A0F3L1P3&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J0A0F3L1P3&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=J0A0F3L1P3&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
