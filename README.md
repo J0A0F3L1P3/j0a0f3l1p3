@@ -19,7 +19,7 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
   <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C">
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL">
-  <img src="https://skillicons.dev/icons?i=React&theme=dark" alt="React">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React">
 </p>
 
 <!--github com os icones: https://github.com/tandpfun/skill-icons#icons-list -->
