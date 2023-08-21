@@ -15,10 +15,8 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 ## Estou aprendendo:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C">
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
 </p>
 
