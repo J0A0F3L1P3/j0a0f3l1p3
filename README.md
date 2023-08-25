@@ -22,6 +22,7 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 
 <!-- icones: https://github.com/tandpfun/skill-icons#icons-list -->
 
+
 ## github Status:
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=J0A0F3L1P3&theme=nord_dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=J0A0F3L1P3&layout=compact&langs_count=6&theme=nord) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J0A0F3L1P3&hide=Html&theme=nord_dark) |
