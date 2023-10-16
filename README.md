@@ -16,6 +16,7 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" alt="C">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++">
   <img src="https://skillicons.dev/icons?i=cs" alt="C#">
   <img src="https://skillicons.dev/icons?i=python" alt="Python">
 </p>
