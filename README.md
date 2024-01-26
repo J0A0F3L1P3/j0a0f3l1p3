@@ -9,20 +9,17 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
   <img src="https://skillicons.dev/icons?i=css" alt="CSS">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
   <img src="https://skillicons.dev/icons?i=git" alt="Git">
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
   <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite	">
-  <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet	">
 </p>
 
 ## Estou aprendendo:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" alt="C">
   <img src="https://skillicons.dev/icons?i=cs" alt="C#">
   <img src="https://skillicons.dev/icons?i=python" alt="Python">
-  <img src="https://skillicons.dev/icons?i=express" alt="Express">
-  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
 </p>
 
 <!-- icones: https://github.com/tandpfun/skill-icons#icons-list -->
