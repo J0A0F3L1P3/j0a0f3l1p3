@@ -16,10 +16,10 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="Python">
+  <img src="https://skillicons.dev/icons?i=django" alt="django">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs">
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
-  <img src="https://skillicons.dev/icons?i=django" alt="django">
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker">
+<!--   <img src="https://skillicons.dev/icons?i=docker" alt="docker"> -->
 </p>
 
 <!-- icones: https://github.com/tandpfun/skill-icons#icons-list -->
