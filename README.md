@@ -9,7 +9,6 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
   <img src="https://skillicons.dev/icons?i=css" alt="CSS">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
   <img src="https://skillicons.dev/icons?i=git" alt="Git">
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite	">
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
 </p>
 
@@ -18,6 +17,7 @@ Olá, meu nome é João Felipe, tenho 19 anos e estou cursando Engenharia de Sof
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="Python">
   <img src="https://skillicons.dev/icons?i=django" alt="django">
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite">
   <img src="https://skillicons.dev/icons?i=react" alt="react">
 </p>
 
