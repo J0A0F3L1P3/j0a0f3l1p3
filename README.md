@@ -9,14 +9,14 @@ Olá, tenho 20 anos e estou cursando Engenharia de Software ( Anhanguera ) e Des
   <img src="https://skillicons.dev/icons?i=css" alt="CSS">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
   <img src="https://skillicons.dev/icons?i=git" alt="Git">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python">
-  <img src="https://skillicons.dev/icons?i=django" alt="django">
   <!-- <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"> -->
 </p>
 
 ## Estou aprendendo:
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python">
+  <img src="https://skillicons.dev/icons?i=django" alt="django">
   <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite">
   <img src="https://skillicons.dev/icons?i=react" alt="react">
 </p>
