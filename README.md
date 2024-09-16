@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=8FBCBB&&center=falsewidth=100%&lines=Bem+vindo+ao+meu+github.;Meu+nome+é+João+Felipe.;Tecnico+em+Desenvolvimento+de+Sistema.;Sou+Jovem+Aprendiz+na+VIVO!;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=8FBCBB&&center=falsewidth=100%&lines=Bem+vindo+ao+meu+github.;Meu+nome+é+João+Felipe.;Tecnico+em+DS.;Sou+Jovem+Aprendiz+na+VIVO!;)
 
 Olá, tenho 20 anos e estou cursando Engenharia de Software ( Anhanguera ). Gosto de trabalhar em colaboração, buscando sempre contribuir para alcançar os objetivos do projeto.
 
