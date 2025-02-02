@@ -8,7 +8,7 @@ Sou **João Felipe**, estudante de **Engenharia de Software** na Anhanguera e at
 
 <div align="center">
 
-### 🚀 Tecnologias que utilizo:
+### 🚀 Tecnologias que Utilizo:
 <table style="display: block;">
   <tr>
     <th>🔹 Front-end</th>
@@ -50,7 +50,7 @@ Sou **João Felipe**, estudante de **Engenharia de Software** na Anhanguera e at
 
 ---
 
-## 📊 Meu GitHub status:
+## 📊 Meu GitHub Status:
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=J0A0F3L1P3&theme=nord_dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=J0A0F3L1P3&layout=compact&langs_count=6&theme=nord) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J0A0F3L1P3&hide=Html&theme=nord_dark) |
 | :-: | :-: | :-: |
 
