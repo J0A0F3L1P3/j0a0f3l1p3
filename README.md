@@ -38,13 +38,35 @@ Sou **João Felipe**, estudante de **Engenharia de Software** na Anhanguera e at
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,sqlite,postman,linux" alt="Aprendendo">
+      <img src="https://skillicons.dev/icons?i=docker,nodejs,sqlite,postman,linux" alt="Aprendendo">
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,fastapi,java,tailwind" alt="Futuro aprendizado">
+      <img src="https://skillicons.dev/icons?i=react,cs,java,tailwind,aws" alt="Futuro aprendizado">
     </td>
   </tr>
 </table>
+
+<!--   A ser estudados -->
+<!--   <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi"> -->
+<!--   <img src="https://skillicons.dev/icons?i=figma" alt="figma"> -->
+<!--   <img src="https://skillicons.dev/icons?i=kafka" alt="kafka"> -->
+<!--   <img src="https://skillicons.dev/icons?i=kali" alt="kali"> -->
+<!--   <img src="https://skillicons.dev/icons?i=windicss" alt="windicss"> -->
+<!--   <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress"> -->
+<!--   <img src="https://skillicons.dev/icons?i=webflow" alt="webflow"> -->
+<!--   <img src="https://skillicons.dev/icons?i=vue" alt="vue"> -->
+<!--   <img src="https://skillicons.dev/icons?i=vite" alt="vite"> -->
+<!--   <img src="https://skillicons.dev/icons?i=threejs" alt="threejs"> -->
+<!--   <img src="https://skillicons.dev/icons?i=redhat" alt="redhat"> -->
+<!--   <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi"> -->
+<!--   <img src="https://skillicons.dev/icons?i=prisma" alt="prisma"> -->
+<!--   <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian"> -->
+<!--   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"> -->
+<!--   <img src="https://skillicons.dev/icons?i=blender" alt="blender"> -->
+<!--   <img src="https://skillicons.dev/icons?i=aws" alt="aws"> -->
+<!--   <img src="https://skillicons.dev/icons?i=arduino" alt="arduino"> -->
+<!--   <img src="https://skillicons.dev/icons?i=angular" alt="angular"> -->
+<!--   <img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio"> -->
 
 </div>
 
