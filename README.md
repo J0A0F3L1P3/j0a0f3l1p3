@@ -9,11 +9,11 @@ Sou **João Felipe**, estudante de **Engenharia de Software** na Anhanguera e at
 <div align="center">
 
 ## 🚀 Tecnologias que Utilizo:
-<table style="display: block;">
+<table>
   <tr>
-    <th>🔹 Front-end</th>
-    <th>🔹 Back-end</th>
-    <th>🔹 Ferramentas</th>
+    <th style="white-space: nowrap">🔹 Front&#8209;end</th>
+    <th style="white-space: nowrap">🔹 Back&#8209;end</th>
+    <th>🔹 Ferramenta</th>
   </tr>
   <tr>
     <td align="center">
@@ -31,7 +31,7 @@ Sou **João Felipe**, estudante de **Engenharia de Software** na Anhanguera e at
 <br>
 
 ## 📚 Estudos Atuais e Futuros:
-<table style="display: block;">
+<table>
   <tr>
     <th>📚 Atualmente aprendendo:</th>
     <th>🎯 Futuro aprendizado (planejado):</th>
