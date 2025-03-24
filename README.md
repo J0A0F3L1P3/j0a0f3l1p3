@@ -12,8 +12,8 @@ Sou **João Felipe**, estudante de **Engenharia de Software** na Anhanguera e at
 <table style="display: block;">
   <tr>
     <th>🔹 Front-end</th>
-    <th>🔹 Back-end & Banco de Dados</th>
-    <th>🔹 Ferramentas & Automação</th>
+    <th>🔹 Back-end</th>
+    <th>🔹 Ferramentas</th>
   </tr>
   <tr>
     <td align="center">
