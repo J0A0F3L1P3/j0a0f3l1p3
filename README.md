@@ -41,7 +41,7 @@ Sou **João Felipe**, estudante de **Engenharia de Software** na Anhanguera e at
       <img src="https://skillicons.dev/icons?i=docker,nodejs,sqlite,postman,linux&perline=5" alt="Aprendendo">
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs,postgres,aws,kubernetes,angular&perline=5" alt="Futuro aprendizado">
+      <img src="https://skillicons.dev/icons?i=cs,androidstudio,aws,kubernetes,angular&perline=5" alt="Futuro aprendizado">
     </td>
   </tr>
 </table>
